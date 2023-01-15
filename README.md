@@ -1,4 +1,4 @@
-# Project-5: Continuous Integration Using jenkins, Nexus, Sonarqube and Slack
+# Continuous Integration Using jenkins, Nexus, Sonarqube and Slack
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
